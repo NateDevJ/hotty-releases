@@ -13,7 +13,7 @@ Get the latest `Hotty-<version>.dmg` from the [Releases](../../releases/latest) 
 
 ## Feedback
 
-Bugs and ideas are welcome as [issues](../../issues).
+Bugs and ideas are welcome as [issues](../../issues), or use **Send Feedback …** in Hotty (Help menu or Settings ▸ About).
 
 ## About this repository
 
